@@ -1,0 +1,14 @@
+C:\Users\user\Documents\DeLxCruz\PushUps\Lógica\VotacionesCONFECH\bin\Debug\net8.0\VotacionesCONFECH.exe
+C:\Users\user\Documents\DeLxCruz\PushUps\Lógica\VotacionesCONFECH\bin\Debug\net8.0\VotacionesCONFECH.deps.json
+C:\Users\user\Documents\DeLxCruz\PushUps\Lógica\VotacionesCONFECH\bin\Debug\net8.0\VotacionesCONFECH.runtimeconfig.json
+C:\Users\user\Documents\DeLxCruz\PushUps\Lógica\VotacionesCONFECH\bin\Debug\net8.0\VotacionesCONFECH.dll
+C:\Users\user\Documents\DeLxCruz\PushUps\Lógica\VotacionesCONFECH\bin\Debug\net8.0\VotacionesCONFECH.pdb
+C:\Users\user\Documents\DeLxCruz\PushUps\Lógica\VotacionesCONFECH\obj\Debug\net8.0\VotacionesCONFECH.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\DeLxCruz\PushUps\Lógica\VotacionesCONFECH\obj\Debug\net8.0\VotacionesCONFECH.AssemblyInfoInputs.cache
+C:\Users\user\Documents\DeLxCruz\PushUps\Lógica\VotacionesCONFECH\obj\Debug\net8.0\VotacionesCONFECH.AssemblyInfo.cs
+C:\Users\user\Documents\DeLxCruz\PushUps\Lógica\VotacionesCONFECH\obj\Debug\net8.0\VotacionesCONFECH.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\DeLxCruz\PushUps\Lógica\VotacionesCONFECH\obj\Debug\net8.0\VotacionesCONFECH.dll
+C:\Users\user\Documents\DeLxCruz\PushUps\Lógica\VotacionesCONFECH\obj\Debug\net8.0\refint\VotacionesCONFECH.dll
+C:\Users\user\Documents\DeLxCruz\PushUps\Lógica\VotacionesCONFECH\obj\Debug\net8.0\VotacionesCONFECH.pdb
+C:\Users\user\Documents\DeLxCruz\PushUps\Lógica\VotacionesCONFECH\obj\Debug\net8.0\VotacionesCONFECH.genruntimeconfig.cache
+C:\Users\user\Documents\DeLxCruz\PushUps\Lógica\VotacionesCONFECH\obj\Debug\net8.0\ref\VotacionesCONFECH.dll
