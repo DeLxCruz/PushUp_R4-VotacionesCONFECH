@@ -1,4 +1,4 @@
-# Sistema de Votación para Universidades
+# Votaciones de la CONFECH
 
 Este es una aplicación de consola simple desarrollada en C# que facilita el proceso de votación para universidades.
 
